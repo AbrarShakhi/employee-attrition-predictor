@@ -1,7 +1,8 @@
 [project]
 name = "employee-attrition-predictor"
 version = "0.1.0"
-description = "Add your description here"
+description = "CSE303 (Statistics for Data Science) Course project"
 readme = "README.md"
-requires-python = ">=3.13"
-dependencies = []
+requires-python = ">=3.11"
+dependencies = [
+]

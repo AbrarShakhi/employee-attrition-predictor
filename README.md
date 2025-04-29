@@ -13,4 +13,5 @@ scikit-learn \
 seaborn \
 scipy \
 ipykernel \
-jupyterlab
+jupyterlab \
+kagglehub

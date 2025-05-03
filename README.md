@@ -5,6 +5,7 @@ based on [this dataset](https://www.kaggle.com/datasets/thedevastator/employee-a
 # dependencies
 
 pip install \
+ipywidgets \
 matplotlib \
 numpy \
 pandas \
@@ -14,4 +15,5 @@ seaborn \
 scipy \
 ipykernel \
 jupyterlab \
-kagglehub
+kagglehub \
+dash
